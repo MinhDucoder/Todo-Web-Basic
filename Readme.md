@@ -1,3 +1,5 @@
+# MinhDucoder
+
 # 📝 Todo List App
 
 Một ứng dụng Todo List đơn giản được xây dựng bằng **HTML, CSS và JavaScript thuần**, sử dụng kiến trúc module hiện đại (chia component, router và render) giúp dễ dàng mở rộng và tái sử dụng.
@@ -37,7 +39,7 @@ Một ứng dụng Todo List đơn giản được xây dựng bằng **HTML, CS
 
 ```bash
 # Clone project
-git clone https://github.com/<your-username>/todo-list.git
+git clone https://github.com/MinhDucoder/Todo-Web-Basic
 cd todo-list
 
 # Cài Vite nếu cần
